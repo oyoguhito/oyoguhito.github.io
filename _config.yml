@@ -21,7 +21,7 @@
 title: 泳ぐ人
 email: info-@-oyoguhito.net(-を削除して下さい)
 description: >- # this means to ignore newlines until "baseurl:"
-  PCの出張サポートからWeb系システム開発等、一般ユーザーの方から企業の方まで、
+  PCの出張サポートから配信システム開発など、一般ユーザーの方から企業の方まで、
   大手企業に依頼するにはちょっと…という感じの御依頼を出来る限り対応致します。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
