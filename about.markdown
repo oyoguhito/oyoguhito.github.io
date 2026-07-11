@@ -14,7 +14,9 @@ permalink: /about/
 
 所在地
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><img src="/images/address.png">
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+Resolution Duns: 698723913
+デジタルアドレス: 3P8-W4W0 
 TEL: 050-3639-7474  ※IP電話の方は無料で御問合せ頂けます(一部除く)
 FAX: 045-352-7474
 ※営業時間外の御問合せにつきましては、恐れ入りますがメール・FAXにて御願い致します。</code></pre></div></div>
