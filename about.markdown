@@ -21,10 +21,6 @@ TEL: 050-3639-7474  ※IP電話の方は無料で御問合せ頂けます(一部
 FAX: 045-352-7474
 ※営業時間外の御問合せにつきましては、恐れ入りますがメール・FAXにて御願い致します。</code></pre></div></div>
 
-代表者
-
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><img src="/images/name.png"></code></pre></div></div>
-
 事業概要
 
                     ネットーワーク構築
